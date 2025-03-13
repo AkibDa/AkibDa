@@ -1,0 +1,45 @@
+name: Update GitHub Profile Activity
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    name: Update GitHub Profile Readme
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: AkibDa
+          show_icons: true
+          theme: tokyonight
+
+      - name: Update Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          username: AkibDa
+          theme: tokyonight
+
+      - name: Update Contribution Graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: AkibDa
+          theme: github
+
+      - name: Update GitHub Trophies
+        run: |
+          echo '![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkibDa&theme=tokyonight&no-frame=true&margin-w=5)' >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@github.com"
+          git add .
+          git commit -m "Updated README with latest stats and trophies" || echo "No changes to commit"
+          git push
