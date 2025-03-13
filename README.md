@@ -1,51 +1,58 @@
-# Hi there 👋, I'm Sk Akib Ahammed
+<h1 align="center">Hi there 👋, I'm Sk Akib Ahammed</h1>
+<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Open Source Enthusiast</h3>
 
-### Aspiring AI Engineer | Full-Stack Developer | Open Source Enthusiast
-
-- 🔭 **Current Projects**:
-  - **DietForge**: A smart diet-planning app 🥗
-  - **Exploring LLMs**: Working with Large Language Models
-
-- 🌱 **Currently Learning**:
-  - Machine Learning & Deep Learning
-  - Advanced Web Development (React, Node.js)
-
-- 💬 **Ask me about**:
-  - AI/ML, Python, JavaScript
-  - Open Source Contributions
-
-- 📫 **How to reach me**:
-  - [LinkedIn](https://www.linkedin.com/in/sk-akib-ahammed/)
-  - Discord: akib_shann#1234
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+🔹 Passionate about **AI, Full-Stack Development, and Open Source**  
+🔹 Building **DietForge** – A smart diet-planning app 🥗  
+🔹 Exploring **LLMs, AI frameworks, and backend technologies**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=tokyonight)
+### 🌱 Currently Learning  
+- **Machine Learning & Deep Learning**  
+- **Large Language Models (LLMs)**  
+- **Advanced Web Development (React, JavaScript, Backend Tech)**  
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkibDa&theme=tokyonight&no-frame=true&margin-w=5)
+## 🛠 Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,git,github,docker" />
+</div>
 
 ---
 
-## 🔗 Connect with Me
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sk-akib-ahammed/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/AkibDa)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkibDa&theme=tokyonight" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sk-akib-ahammed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/AkibDa">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
+⚡ **Fun Fact:** I completed **100 Days of Python Code** and love experimenting with AI models! 🚀  
+
+---
