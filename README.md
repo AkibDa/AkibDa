@@ -26,6 +26,12 @@
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=tokyonight&no-frame=true&margin-w=5" alt="GitHub Trophies">
+</p>
+---
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=tokyonight" alt="github stats" />
