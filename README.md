@@ -40,17 +40,11 @@
 </p>
 
 ---
+## 🔗 Connect with Me
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/sk-akib-ahammed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/AkibDa">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" />
-  </a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sk-akib-ahammed/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/AkibDa)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_akib.shann_/)
 ---
 
 ⚡ **Fun Fact:** I completed **100 Days of Python Code** and love experimenting with AI models! 🚀  
