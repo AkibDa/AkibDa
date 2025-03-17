@@ -15,7 +15,7 @@
 ### 🌱 Currently Learning  
 - **Machine Learning & Deep Learning**  
 - **Large Language Models (LLMs)**  
-- **Advanced Web Development (React, JavaScript, Backend Tech)**  
+- **Advanced Web Development (React, JavaScript, Flask, Backend Tech)**  
 
 ---
 
