@@ -67,7 +67,3 @@
 </p>
 
 ---
-
-⚡ **Fun Fact:** I completed **100 Days of Python Code** and love experimenting with AI models! 🚀  
-
----
