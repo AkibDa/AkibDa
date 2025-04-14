@@ -46,6 +46,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkibDa&theme=calm_pink&no-frame=true&no-bg=false&margin-w=4)
+
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?typ=horizontal&theme=tokyonight)
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
