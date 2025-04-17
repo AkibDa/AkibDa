@@ -35,7 +35,7 @@
 ## 🔧 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,streamlit,django,java,js,react,nodejs,tailwind,mongodb,git,docker" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,django,java,js,react,nodejs,tailwind,mongodb,git,docker" />
 </p>
 
 ---
