@@ -93,12 +93,6 @@
 
 ---
 
-## 🌙 Light/Dark Mode Ready
-
-> Optimized for GitHub’s theme switcher – looks sleek in both **Light** and **Dark** modes.
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
