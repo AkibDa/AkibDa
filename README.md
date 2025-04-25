@@ -70,9 +70,17 @@
 
 ---
 
+## 🛡️ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=onedark&margin-w=5&no-bg=true&no-frame=true" />
+</p>
+
+---
+
 ## 🏅 Achievements
 
-- 🥇 **Top 10** in National Hackathon (2023)
+- 🥇 **Top 10** in my First Hackathon (2025)
 - 🚀 **3 AI projects** deployed with active users
 - 📈 **1000+ hours** of hands-on coding experience
 - 🌟 **5+ open-source** contributions
