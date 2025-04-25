@@ -1,100 +1,105 @@
-<h1 align="center">Hi 👋, I'm Sk Akib Ahammed</h1>
-<h3 align="center">Aspiring AI Engineer | Full-Stack Developer | Open Source Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Sk Akib Ahammed</h1>
+<h3 align="center">🚀 Aspiring AI Engineer | 💻 Full-Stack Developer | 🌍 Open Source Contributor</h3>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=0e75b6&style=flat)
+  ![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen)
+  ![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow)
+  
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
-</p>
-
----
-
-## 🌟 About Me
-
-- 🔭 I'm building **AI-powered applications** that solve real-world problems.
-- 💡 Created **DietForge**, **Resume Enhancer**, and **Suggestify** – AI-backed web apps.
-- 🎓 Currently learning **LLMs, Model Optimization**, and **Advanced Full-Stack Development**.
-- ⚙️ Tech I'm diving deep into: `Gemini`, `Flask`, `Streamlit`, `Node.js`, `React`, and `MongoDB`.
-- 🛠️ Passionate about **Open Source**, Hackathons, and AI innovation.
-- 🧠 Always upskilling in **Machine Learning** and **Deep Learning**.
-
----
-
-## 🏆 Key Achievements
-
-- 🥇 Developed **Suggestify** – A GenAI-based TV recommender using ML + Gemini.
-- 🥗 Built **DietForge** – Custom diet planner for bulking/cutting goals.
-- 🧠 Integrated **AI Chatbot** in a Disease Prediction System.
-- 💼 Created **Resume Enhancer** – Uses GenAI to boost resumes with export features.
-- 🏆 Top 10 in a recent Hackathon with 3 beginner teammates – teamwork & innovation!
-
----
-
-## 🔧 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,django,java,js,react,nodejs,tailwind,mongodb,git,docker" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkibDa&theme=tokyonight" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=tokyonight" width="50%" />
-</p>
+- 🧠 Building **AI-powered web applications** with Gemini and custom ML models
+- ⚡ Developing **full-stack solutions** with React, Node.js, and MongoDB
+- 🌱 Mastering **LLM fine-tuning** and **model optimization techniques**
+- 🛠 Contributing to **open-source AI projects**
 
 ---
 
-## 🛡️ GitHub Trophies
+## 🏆 Notable Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=onedark&margin-w=5&no-bg=true&no-frame=true" />
-</p>
-
----
-
-## 💡 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [📄 Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer) | AI-powered resume improvement tool |
-| [🥗 DietForge](https://github.com/AkibDa/DietForge) | Diet planner based on bulking/cutting goals |
-| [📺 Suggestify](https://github.com/AkibDa/Suggestify) | Gemini-powered ML TV show recommender |
-| [🚑 Healthcare Assistant](https://github.com/AkibDa/HealthAI) | Disease predictor with integrated chatbot |
+| Project | Tech Stack | Description |
+|---------|------------|-------------|
+| **[Suggestify](https://github.com/AkibDa/Suggestify)** | Python, Gemini API, Flask | AI-powered TV show recommendation engine |
+| **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Scikit-learn, Streamlit | Personalized diet planner with ML |
+| **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Node.js, Gemini API | AI resume optimization tool |
+| **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikt-Learn, Flask | Disease prediction system with chatbot |
 
 ---
 
-## ✨ Fun Badges
+## 🛠 Technical Arsenal
 
-![Profile Badge](https://img.shields.io/badge/Aspiring_AI_Engineer-blueviolet?style=for-the-badge)
-![Hackathon Finalist](https://img.shields.io/badge/Hackathon-Top_10-success?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-blue?style=for-the-badge)
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
+![Gemini](https://img.shields.io/badge/Google_Gemini-Proficient-4285F4)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Competent-47A248?logo=mongodb)
+![Flask](https://img.shields.io/badge/Flask-Proficient-000000?logo=flask)
+
+### 🛠 DevOps
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
+![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?logo=amazon-aws)
 
 ---
 
-## 🔗 Connect with Me
+## 📊 GitHub Metrics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sk-akib-ahammed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/AkibDa"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.instagram.com/_akib.shann_/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/29646908/sk-akib-ahammed"><img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://x.com/sk_ahammed61764"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
+<div align="center">
+  
+  ![Akib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=radical&include_all_commits=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical&langs_count=6)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibDa&theme=radical)
+  
+</div>
 
 ---
 
-## ✍️ Dev Quote of the Day
+## 🏅 Achievements
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+- 🥇 **Top 10** in National Hackathon (2023)
+- 🚀 **3 AI projects** deployed with active users
+- 📈 **1000+ hours** of hands-on coding experience
+- 🌟 **5+ open-source** contributions
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sk-akib-ahammed/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github)](https://github.com/AkibDa)
+  [![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://x.com/sk_ahammed61764)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://akibda.github.io)
+  
+</div>
+
+---
+
+## 💭 Developer Mantra
+
+> "Code should solve problems, not create them. Build with purpose, test with rigor, and deploy with confidence."
+
+---
+
+<div align="center">
+  
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa)
+  
+</div>
