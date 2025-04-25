@@ -94,7 +94,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sk-akib-ahammed/)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github)](https://github.com/AkibDa)
   [![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://x.com/sk_ahammed61764)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://akibda.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://skakibahammed,netlify.app)
   
 </div>
 
