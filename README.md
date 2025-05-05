@@ -29,7 +29,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **[Suggestify](https://github.com/AkibDa/Suggestify)** | Python, Gemini API, Flask | AI-powered TV show recommendation engine |
-| **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Scikit-learn, Streamlit | Personalized diet planner with ML |
+| **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Pandas, Streamlit | Personalized diet planner with ML |
 | **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Node.js, Gemini API | AI resume optimization tool |
 | **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikt-Learn, Flask | Disease prediction system with chatbot |
 
