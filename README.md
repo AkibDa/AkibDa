@@ -4,9 +4,9 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=0e75b6&style=flat)
-  ![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen&style=flat)
-  ![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow&style=flat)
-  ![Currently Learning](https://img.shields.io/badge/Learning-LLMs-violet&style=flat)
+  ![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen)
+  ![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow)
+  ![Currently Learning](https://img.shields.io/badge/Learning-LLMs-violet)
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa)
 
 </div>
