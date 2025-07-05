@@ -7,6 +7,7 @@
   ![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen&style=flat)
   ![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow&style=flat)
   ![Currently Learning](https://img.shields.io/badge/Learning-LLMs-violet&style=flat)
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa)
 
 </div>
 
@@ -128,9 +129,3 @@ Build with purpose, test with rigor, and deploy with confidence.” 💭
 </div>
 
 ---
-
-<div align="center">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa)
-  
-</div>
