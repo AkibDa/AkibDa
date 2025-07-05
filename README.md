@@ -6,12 +6,23 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=0e75b6&style=flat)
   ![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen)
   ![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow)
-  
+  ![Currently Learning](https://img.shields.io/badge/Learning-LLMs_&_DevOps-blueviolet)
+
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF"/>
 </p>
+
+---
+
+## 💡 Currently Exploring
+
+- 🧠 Implementing **LLM-based agents** with vector stores & toolchains
+- ⚙️ Learning **LangChain, RAG**, and prompt engineering for production use
+- 🧪 Experimenting with **RLHF (Reinforcement Learning from Human Feedback)**
+- 📦 Setting up scalable AI microservices using **Docker + FastAPI**
+- 📉 Building **data pipelines** with pandas, NumPy, and SQL for ML ops
 
 ---
 
@@ -24,14 +35,23 @@
 
 ---
 
+## 🧠 AI Skills in Action
+
+- 🤖 Deployed 4+ intelligent apps (chatbots, recommendation engines, prediction systems)
+- 🧬 Integrated Google Gemini & Hugging Face into real-world workflows
+- 📊 Hands-on with classification, regression, clustering, vector search, and model evaluation
+- 📈 Regularly experiment with synthetic data, real datasets, and EDA tooling
+
+---
+
 ## 🏆 Notable Projects
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[Suggestify](https://github.com/AkibDa/Suggestify)** | Python, Gemini API, Flask | AI-powered TV show recommendation engine |
+| **[Incepta](https://github.com/AkibDa/Incepta-AI-Generation-Studio)** | Streamlit, Hugging Face, Gemini | AI generation studio for images, videos, and 3D models |
 | **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Pandas, Streamlit | Personalized diet planner with Pandas |
 | **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Node.js, Gemini API | AI resume optimization tool |
-| **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikt-Learn, Flask | Disease prediction system with chatbot |
+| **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikit-Learn, Flask | Disease prediction system with chatbot |
 
 ---
 
@@ -87,6 +107,15 @@
 
 ---
 
+## 💬 Developer Mantra
+
+<p align="center"><strong>
+💭 “Code should solve problems, not create them.<br>
+Build with purpose, test with rigor, and deploy with confidence.” 💭
+</strong></p>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -97,12 +126,6 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://skakibahammed.netlify.app)
   
 </div>
-
----
-
-## 💭 Developer Mantra
-
-> "Code should solve problems, not create them. Build with purpose, test with rigor, and deploy with confidence."
 
 ---
 
