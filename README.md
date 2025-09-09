@@ -22,7 +22,7 @@
 - 🧠 Implementing **LLM-based agents** with vector stores & toolchains
 - ⚙️ Learning **LangChain, RAG**, and prompt engineering for production use
 - 🧪 Experimenting with **RLHF (Reinforcement Learning from Human Feedback)**
-- 📦 Setting up scalable AI microservices using **Docker + FastAPI**
+- 📦 Setting up scalable AI microservices using **Docker + FlaskAPI**
 - 📉 Building **data pipelines** with pandas, NumPy, and SQL for ML ops
 
 ---
@@ -30,7 +30,7 @@
 ## 🔥 Current Focus
 
 - 🧠 Building **AI-powered web applications** with Gemini and custom ML models
-- ⚡ Developing **full-stack solutions** with React, Node.js, and MongoDB
+- ⚡ Developing **full-stack solutions** with React, Flask, and MongoDB
 - 🌱 Mastering **LLM fine-tuning** and **model optimization techniques**
 - 🛠 Contributing to **open-source AI projects**
 
@@ -49,9 +49,9 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| **[Incepta](https://github.com/AkibDa/Incepta-AI-Generation-Studio)** | Streamlit, Hugging Face, Gemini | AI generation studio for images, videos, and 3D models |
+| **[Incepta](https://github.com/AkibDa/Incepta)** | Streamlit, Hugging Face, Gemini | AI generation studio for images, videos, and 3D models |
 | **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Pandas, Streamlit | Personalized diet planner with Pandas |
-| **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Node.js, Gemini API | AI resume optimization tool |
+| **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Flask, Gemini API | AI resume optimization tool |
 | **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikit-Learn, Flask | Disease prediction system with chatbot |
 
 ---
