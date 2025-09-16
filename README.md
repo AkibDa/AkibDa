@@ -51,7 +51,7 @@
 |---------|------------|-------------|
 | **[Incepta](https://github.com/AkibDa/Incepta)** | Streamlit, Hugging Face, Gemini | AI generation studio for images, videos, and 3D models |
 | **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Pandas, Streamlit | Personalized diet planner with Pandas |
-| **[Resume Enhancer](https://github.com/AkibDa/Resume-Enhancer)** | React, Flask, Gemini API | AI resume optimization tool |
+| **[Resume Enhancer](https://github.com/AkibDa/Resume_Builder)** | React, Flask, Gemini API | AI resume optimization tool |
 | **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikit-Learn, Flask | Disease prediction system with chatbot |
 
 ---
