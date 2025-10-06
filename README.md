@@ -104,7 +104,6 @@
 - 🥇 **Top 10** in my First Hackathon (2025)
 - 🚀 **3 AI projects** deployed with active users
 - 📈 **1000+ hours** of hands-on coding experience
-- 🌟 **5+ open-source** contributions
 
 ---
 
