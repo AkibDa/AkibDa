@@ -82,7 +82,7 @@ Currently leveling up in **LLM agents**, **AI tooling**, and **microservice-driv
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkibDa&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AkibDa)](https://git.io/streak-stats))
 
 </div>
 
