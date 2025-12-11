@@ -1,65 +1,88 @@
-<h1 align="center">👋 Hey, I'm <strong>Sk Akib Ahammed</strong></h1>
-<h3 align="center">🚀 Aspiring AI Engineer | 💻 Full-Stack Developer | 🌍 Open-Source Contributor</h3>
+<!-- HEADER -->
+<h1 align="center">✨ Hey, I'm <strong>Sk Akib Ahammed</strong> 👋</h1>
+<h3 align="center">🚀 AI Engineer in Progress | 💻 Full-Stack Developer | 🌍 Open-Source Contributor</h3>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=blueviolet&style=flat)
-![Years Coding](https://img.shields.io/badge/Years_Coding-3+-brightgreen)
-![Hackathons](https://img.shields.io/badge/Hackathons-5+-yellow)
-![Learning](https://img.shields.io/badge/Currently_Learning-LLMs_v3-violet)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa)
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
+
+<br/>
+
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=blueviolet&style=flat" />
+<img src="https://img.shields.io/badge/Years_Coding-3+-brightgreen" />
+<img src="https://img.shields.io/badge/Hackathons-5+-yellow" />
+<img src="https://img.shields.io/badge/Currently_Learning-LLMs_v3-violet" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa" />
 
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
-</p>
+---
+
+## 🔥 **About Me**
+I’m passionate about building **real-world AI products**, designing **LLM-driven systems**, and crafting polished **full-stack applications**.
+
+Currently exploring:
+- 🤖 LLM Agents, RAG Systems & Tool-Calling  
+- ⚡ AI + Web development (Gemini, Flask, React, MongoDB)  
+- 🔍 MLOps, pipelines & experiment tracking  
+- 📚 RLHF, fine-tuning & optimization  
 
 ---
 
-## 🔥 About Me  
-I’m passionate about building **real-world AI products**, experimenting with **LLMs**, and shipping complete **full-stack applications**.  
-Currently leveling up in **LLM agents**, **AI tooling**, and **microservice-driven AI systems**.
+## 🚀 **What I’m Building Now**
+- 🧠 LLM-powered autonomous agents  
+- 🧪 AI research tools & ML model pipelines  
+- 🧬 Smart applications using Gemini + Hugging Face  
+- 📦 Microservice-style backend for AI apps  
 
 ---
 
-## 💡 What I’m Working On  
-- 🧠 LLM-based AI agents with vector stores, RAG & tool-chains  
-- ⚡ AI + Web projects using **Gemini**, **Flask**, **React**, and **MongoDB**  
-- 🧪 Exploring **RLHF**, fine-tuning, and model optimization  
-- 📊 ML Ops essentials — pipelines, EDA, model tracking  
+## 🧠 **AI Skills in Action**
+- Built & deployed **4+ production-like AI apps**  
+- Integrated **Google Gemini**, Hugging Face, custom ML models  
+- Strong command of:  
+  - ML: Classification, Regression, Clustering  
+  - LLM: Embeddings, Vector DB, RAG  
+  - DS: EDA, Feature Engineering, Evaluation  
+- Work with both **synthetic + real datasets**  
 
 ---
 
-## 🧠 AI Skills in Action  
-- 🚀 Built & deployed **4+ intelligent apps** (chatbots, generators, predictors)  
-- 🤖 Integrated **Gemini**, **Hugging Face**, and custom ML models  
-- 📈 Strong hands-on with:  
-  - Classification, Regression, Clustering  
-  - Vector Search, Embeddings, RAG  
-  - EDA, Feature Engineering, Model Evaluation  
-- 🧬 Often experiment with synthetic + real datasets  
+## 🌟 **Featured Projects**
+
+<table>
+<tr>
+<td><strong>🔥 <a href="https://github.com/AkibDa/Incepta">Incepta</a></strong></td>
+<td>Streamlit, Hugging Face, Gemini</td>
+<td>AI Studio for generating images, videos & 3D models</td>
+</tr>
+<tr>
+<td><strong>🍽 <a href="https://github.com/AkibDa/DietForge">DietForge</a></strong></td>
+<td>Python, Pandas, Streamlit</td>
+<td>Personalized diet planning assistant</td>
+</tr>
+<tr>
+<td><strong>📄 <a href="https://github.com/AkibDa/Resume_Builder">Resume Enhancer</a></strong></td>
+<td>React, Flask, Gemini</td>
+<td>AI-powered resume optimization platform</td>
+</tr>
+<tr>
+<td><strong>🩺 <a href="https://github.com/AkibDa/DiagnoWise">DiagnoWise</a></strong></td>
+<td>Flask, Scikit-Learn</td>
+<td>Disease prediction ML system + chatbot</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Featured Projects
+## 🛠 **Tech Stack**
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| 🔥 **[Incepta](https://github.com/AkibDa/Incepta)** | Streamlit, Hugging Face, Gemini | AI studio for generating images, videos & 3D models |
-| 🍽 **[DietForge](https://github.com/AkibDa/DietForge)** | Python, Pandas, Streamlit | Personalized diet planning assistant |
-| 📄 **[Resume Enhancer](https://github.com/AkibDa/Resume_Builder)** | React, Flask, Gemini API | AI-powered Smart Resume Optimizer |
-| 🩺 **[DiagnoWise](https://github.com/AkibDa/DiagnoWise)** | Python, Scikit-Learn, Flask | Disease prediction tool with chatbot |
-
----
-
-## 🛠 Tech Stack
-
-### 🤖 AI / ML  
+### 🤖 AI & Machine Learning  
 ![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
-![Gemini](https://img.shields.io/badge/Google_Gemini-Proficient-4285F4)
+![Gemini](https://img.shields.io/badge/Google_Gemini-Proficient-4285F4?logo=google)
 
 ### 🌐 Web Development  
 ![Flask](https://img.shields.io/badge/Flask-Proficient-000000?logo=flask)
@@ -67,56 +90,62 @@ Currently leveling up in **LLM agents**, **AI tooling**, and **microservice-driv
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Competent-47A248?logo=mongodb)
 
-### 🛠 DevOps  
+### 🛠 DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker)
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
 ![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?logo=amazon-aws)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=radical&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=radical&include_all_commits=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical" height="180" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AkibDa)](https://git.io/streak-stats))
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=AkibDa&theme=radical" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=onedark&no-bg=true&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=onedark&no-bg=true&no-frame=true&margin-w=8" />
 </p>
 
 ---
 
-## 🏅 Achievements  
-- 🥇 **Top 10** in First Hackathon (2025)  
-- 🚀 **3+ deployed AI apps** with active users  
-- 🔥 Completed **100 Days of Python Code**  
-- 📈 **1000+ hours** of hands-on coding  
+## 🏅 **Achievements**
+- 🥇 Placed **Top 10** in first hackathon  
+- 🚀 Developed & deployed **3+ AI apps** with users  
+- 🔥 Completed **100 Days of Python**  
+- 💻 Logged **1000+ hours** of coding  
+- 🎓 Multiple Google Cloud & GenAI Certifications  
 
 ---
 
-## 💬 My Developer Philosophy  
-<p align="center"><strong>
-“Code with intention, build with clarity, deploy with confidence.”
-</strong></p>
+## 💡 **Developer Philosophy**
+<div align="center">
+  
+### 🧭 *“Code with intention. Build with clarity. Deploy with confidence.”*
+
+</div>
 
 ---
 
-## 📬 Connect With Me
+## 📬 **Connect With Me**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skakibahammed/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github)](https://github.com/AkibDa)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://x.com/sk_ahammed61764)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skakibahammed/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github)](https://github.com/AkibDa)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://x.com/sk_ahammed61764)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://skakibahammed.netlify.app)
 
 </div>
