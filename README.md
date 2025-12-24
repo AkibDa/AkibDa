@@ -1,153 +1,87 @@
-<!-- HEADER -->
 <h1 align="center">✨ Hey, I'm <strong>Sk Akib Ahammed</strong> 👋</h1>
-<h3 align="center">🚀 AI Engineer in Progress | 💻 Full-Stack Developer | 🌍 Open-Source Contributor</h3>
+<h3 align="center">🚀 AI Engineer | 🤖 Multi-Agent Systems & GenAI Specialist</h3>
+
+<p align="center">
+  <a href="mailto:ahammedskakib@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/skakibahammed/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://skakibahammed.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF4088?style=for-the-badge&logo=hugo&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
-
-<br/>
-
-<!-- BADGES -->
-<img src="https://komarev.com/ghpvc/?username=AkibDa&label=Profile%20Views&color=blueviolet&style=flat" />
-<img src="https://img.shields.io/badge/Years_Coding-3+-brightgreen" />
-<img src="https://img.shields.io/badge/Hackathons-5+-yellow" />
-<img src="https://img.shields.io/badge/Currently_Learning-LLMs_v3-violet" />
-<img src="https://visitor-badge.laobi.icu/badge?page_id=AkibDa.AkibDa" />
-
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350" />
 </div>
 
 ---
 
-## 🔥 **About Me**
-I’m passionate about building **real-world AI products**, designing **LLM-driven systems**, and crafting polished **full-stack applications**.
+## 👨‍💻 **About Me**
+> *"Passionate about building intelligent systems that combine generative AI, multi-agent architectures, and real-world automation."*
 
-Currently exploring:
-- 🤖 LLM Agents, RAG Systems & Tool-Calling  
-- ⚡ AI + Web development (Gemini, Flask, React, MongoDB)  
-- 🔍 MLOps, pipelines & experiment tracking  
-- 📚 RLHF, fine-tuning & optimization  
+I am a **Computer Science Engineer (B.Tech '28)** focused on moving beyond simple chatbots to create **autonomous agents** and **production-grade AI pipelines**. I specialize in orchestrating LLMs to solve complex workflows.
 
----
-
-## 🚀 **What I’m Building Now**
-- 🧠 LLM-powered autonomous agents  
-- 🧪 AI research tools & ML model pipelines  
-- 🧬 Smart applications using Gemini + Hugging Face  
-- 📦 Microservice-style backend for AI apps  
+* 🔭 **Currently working on:** Autonomous Multi-Agent Systems using **LangGraph**.
+* 🌱 **Learning:** Advanced RAG, Model Fine-Tuning, and MLOps.
+* 🎯 **Goal:** To engineer scalable AI solutions that enhance human productivity.
 
 ---
 
-## 🧠 **AI Skills in Action**
-- Built & deployed **4+ production-like AI apps**  
-- Integrated **Google Gemini**, Hugging Face, custom ML models  
-- Strong command of:  
-  - ML: Classification, Regression, Clustering  
-  - LLM: Embeddings, Vector DB, RAG  
-  - DS: EDA, Feature Engineering, Evaluation  
-- Work with both **synthetic + real datasets**  
+## 🛠 **Technical Arsenal**
+
+### 🧠 **AI & Generative Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-FF6F00?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 💻 **Full-Stack & Tools**
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Data-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## 🌟 **Featured Projects**
 
-<table>
-<tr>
-<td><strong>🔥 <a href="https://github.com/AkibDa/Incepta">Incepta</a></strong></td>
-<td>Streamlit, Hugging Face, Gemini</td>
-<td>AI Studio for generating images, videos & 3D models</td>
-</tr>
-<tr>
-<td><strong>🍽 <a href="https://github.com/AkibDa/DietForge">DietForge</a></strong></td>
-<td>Python, Pandas, Streamlit</td>
-<td>Personalized diet planning assistant</td>
-</tr>
-<tr>
-<td><strong>📄 <a href="https://github.com/AkibDa/Resume_Builder">Resume Enhancer</a></strong></td>
-<td>React, Flask, Gemini</td>
-<td>AI-powered resume optimization platform</td>
-</tr>
-<tr>
-<td><strong>🩺 <a href="https://github.com/AkibDa/DiagnoWise">DiagnoWise</a></strong></td>
-<td>Flask, Scikit-Learn</td>
-<td>Disease prediction ML system + chatbot</td>
-</tr>
-</table>
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 CodeGenesis** | `LangGraph` `Python` `OpenAI` `Claude` | **Autonomous Multi-Agent System.** An SDLC simulator with Planner, Architect, and Coder agents. Features cyclic graph state management and self-healing debug loops. |
+| **🎨 Incepta AI** | `Streamlit` `Stable Diffusion` `FLAN-T5` | **Generative AI Studio.** A full-stack platform transforming prompts into Images, Videos, and 3D Models. Optimized inference pipeline for low latency. |
+| **📊 FinMetric (JP Morgan Sim)** | `Python` `Pandas` `Modeling` | **Quant Research Tool.** Credit default probability estimator using dynamic programming for FICO score bucketing (90%+ accuracy). |
 
 ---
 
-## 🛠 **Tech Stack**
-
-### 🤖 AI & Machine Learning  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow)
-![Gemini](https://img.shields.io/badge/Google_Gemini-Proficient-4285F4?logo=google)
-
-### 🌐 Web Development  
-![Flask](https://img.shields.io/badge/Flask-Proficient-000000?logo=flask)
-![React](https://img.shields.io/badge/React-Advanced-61DAFB?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-Competent-47A248?logo=mongodb)
-
-### 🛠 DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?logo=docker)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)
-![AWS](https://img.shields.io/badge/AWS-Beginner-232F3E?logo=amazon-aws)
+## 📜 **Certifications**
+* 🏆 **IBM:** Generative AI Fundamentals Specialization (2025)
+* 🏆 **Kaggle:** 5-Day AI Agents Intensive (2025)
+* 🏆 **AWS:** Essentials of Prompt Engineering (2025)
+* 🏆 **Microsoft:** AI & Machine Learning Algorithms (2025)
 
 ---
 
-## 📊 **GitHub Analytics**
+## 📊 **GitHub Stats**
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=radical&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical&hide=html,css" height="160" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkibDa&show_icons=true&theme=radical&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkibDa&layout=compact&theme=radical" height="180" />
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=AkibDa&theme=radical" />
-</a>
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AkibDa&theme=radical" />
+  </a>
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkibDa&theme=onedark&no-bg=true&no-frame=true&margin-w=8" />
-</p>
-
----
-
-## 🏅 **Achievements**
-- 🥇 Placed **Top 10** in first hackathon  
-- 🚀 Developed & deployed **3+ AI apps** with users  
-- 🔥 Completed **100 Days of Python**  
-- 💻 Logged **1000+ hours** of coding  
-- 🎓 Multiple Google Cloud & GenAI Certifications  
-
----
-
-## 💡 **Developer Philosophy**
 <div align="center">
-  
-### 🧭 *“Code with intention. Build with clarity. Deploy with confidence.”*
-
+  <small>Let's build something intelligent. Connect with me on <a href="https://www.linkedin.com/in/skakibahammed/">LinkedIn</a>.</small>
 </div>
-
----
-
-## 📬 **Connect With Me**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/skakibahammed/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-%23181717?style=for-the-badge&logo=github)](https://github.com/AkibDa)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=for-the-badge&logo=twitter)](https://x.com/sk_ahammed61764)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%23FF4088?style=for-the-badge&logo=hugo)](https://skakibahammed.netlify.app)
-
-</div>
-
----
