@@ -1,4 +1,6 @@
-<h1 align="center">✨ Hey, I'm <strong>Sk Akib Ahammed</strong> 👋</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Yo+Wassup!!;Sk+Akib+Ahammed;I'm+an+AI+Enthusiast;" />
+</h1>
 <h3 align="center">🚀 AI Engineer | 🤖 Multi-Agent Systems & GenAI Specialist</h3>
 
 <p align="center">
