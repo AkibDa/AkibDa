@@ -77,7 +77,7 @@ I am a **Computer Science Engineer (B.Tech '28)** focused on moving beyond simpl
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkibDa" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkibDa&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
 ---
