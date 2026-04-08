@@ -80,6 +80,7 @@ I am a **Computer Science Engineer (B.Tech '28)** focused on moving beyond simpl
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=AkibDa&theme=radical" />
   </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=AkibDa)](https://git.io/streak-stats)
 </div>
 
 ---
