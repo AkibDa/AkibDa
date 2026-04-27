@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Hey,+What's+up?!;Sk+Akib+Ahammed+Here!;I'm+an+AI+Engineer+🚀;" />
 </h1>
-<h3 align="center">🚀 AI Engineer | 🤖 Multi-Agent Systems & GenAI Specialist</h3>
+<h3 align="center">🤖 AI/ML Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/skakibahammed/">
