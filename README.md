@@ -81,7 +81,7 @@ I am a **Computer Science Engineer (B.Tech '28)** focused on moving beyond simpl
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AkibDa&theme=radical" alt="GitHub Streak" /></a>
 </div>
 
-![github stats](https://custom-readme-github.vercel.app/api/stats/custom?username=AkibDa&theme=radical&elements=stars%2Ccommits%2Cprs%2Cissues%2Ccontributed%2Cheatmap%2Cweekly&from=joined)
+![github stats](https://custom-readme-github.vercel.app/api/stats/custom?username=AkibDa&theme=radical&elements=stars%2Ccommits%2Cprs%2Cissues%2Ccontributed%2Cheatmap%2Cweekly%2Ctotal_contributions%2Ccurrent_streak%2Clongest_streak%2Cpublic_repos%2Cforks%2Cfollowers%2Crepo_stars%2Cfollowing%2Clanguages%2Cactivity&from=joined)
 
 ---
 
