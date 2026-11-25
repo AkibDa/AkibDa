@@ -97,5 +97,5 @@ I am a **Computer Science Engineering student (B.Tech '28) at Techno Internation
 ---
 
 <p align="center">
-  <img src="koi/koi.gif" width="400" alt="Koi Fish">
+  <img src="gif folder/working_cat.gif" width="400" alt="Working Cat">
 </p>
