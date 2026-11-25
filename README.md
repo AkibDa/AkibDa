@@ -93,3 +93,9 @@ I am a **Computer Science Engineering student (B.Tech '28) at Techno Internation
 <div align="center">
   <small>Let's build something intelligent. Connect with me on <a href="https://www.linkedin.com/in/skakibahammed/">LinkedIn</a>.</small>
 </div>
+
+---
+
+<p align="center">
+  <img src="koi/koi.gif" width="400" alt="Koi Fish">
+</p>
